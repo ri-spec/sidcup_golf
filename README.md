@@ -1,2 +1,2 @@
-# sidcup_golf
+# product
 clone I - website sidcupfamilygolf.com
